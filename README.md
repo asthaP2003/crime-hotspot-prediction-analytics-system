@@ -56,5 +56,8 @@ Random Forest Classifier
 - Monitor locations with increasing crime trends.
 - Use predictive alerts for proactive crime prevention.
 
+  ## Live Demo
+Streamlit App: http://192.168.1.7:8501
+
 ## Author
 Aastha Patrange
